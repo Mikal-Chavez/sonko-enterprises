@@ -91,13 +91,6 @@ body > * {
     background: linear-gradient(to top, map-get($theme-colors, 'dark') 0%, transparent 100%);
   }
 }
-.parallax { 
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .style {
   opacity: 0.9;
